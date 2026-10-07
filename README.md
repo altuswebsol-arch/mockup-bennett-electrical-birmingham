@@ -1,5 +1,7 @@
 # Bennett Electrical Birmingham — Website Mockup Concept
 
+**Live demo:** https://altuswebsol-arch.github.io/mockup-bennett-electrical-birmingham/
+
 A homepage redesign concept for **Bennett Electrical Birmingham** in Birmingham, UK — a electrical business.
 
 ## Design
